@@ -1,0 +1,1 @@
+print ' \n'.join(''.join(i) for i in [(str(x),'*', str(y), '=', str(x*y)) for x in range(1,11) for y in range(1,11)])

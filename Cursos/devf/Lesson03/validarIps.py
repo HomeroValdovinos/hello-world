@@ -10,6 +10,6 @@ lista=[]
 #123.456.789.123
 for i in range(len(ip)):
     print ip[i]
-    if (ip[i] != '.' && ip[i].isdigit()):
+    if (ip[i] != '.' || ip[i].isdigit()):
             lista.append(ip[i])
 print " La lista creada es: ", lista

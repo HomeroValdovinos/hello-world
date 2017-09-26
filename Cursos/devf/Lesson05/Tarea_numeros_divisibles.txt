@@ -1,0 +1,18 @@
+es una coleccion no ordenada de elementos
+
+contienen un valor como elemento, un dicccionario tiene pares de llave y valor
+
+para crear un diccionario tenemos que colorcar los elementons entre {} sep
+arados por coa
+
+
+un elemento tiene una llave y su correspondiente valor. puede haber valores repetidos pero las llaves deben de ser únicos
+
+
+Tarea
+Guardar en la lista los numeros divisibles entre 7 pero no sea multiplo de 5,
+desde 2000:32000
+(si la division nos sale un entero, no ser parte de esa lista)
+item%7 == 0
+item%5 != 0
+Imprimir lista separada por comas

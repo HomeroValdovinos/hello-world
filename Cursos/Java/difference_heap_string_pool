@@ -15,3 +15,12 @@ public class Ejercicios {
 		System.out.println(s3 == s4);
 	}
 }
+
+/* La salida es:
+s1 trae cat
+s2 trae cat
+s3 trae cat
+true
+false
+false
+*/

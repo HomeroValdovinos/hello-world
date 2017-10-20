@@ -1,0 +1,300 @@
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja\Scripts>pip install flask
+Requirement already satisfied: flask in c:\program files\canopy\user\lib\site-packages
+Requirement already satisfied: itsdangerous>=0.21 in c:\program files\canopy\user\lib\site-packages (from flask)
+Requirement already satisfied: click>=2.0 in c:\program files\canopy\user\lib\site-packages (from flask)
+Requirement already satisfied: Werkzeug>=0.7 in c:\program files\canopy\user\lib\site-packages (from flask)
+Requirement already satisfied: Jinja2>=2.4 in c:\program files\canopy\user\lib\site-packages (from flask)
+Requirement already satisfied: markupsafe in c:\program files\canopy\user\lib\site-packages (from Jinja2>=2.4->flask)
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja\Scripts>deactivate
+C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja\Scripts>cd..
+
+C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>cd Scripts
+
+C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja\Scripts>activate
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja\Scripts>cd..
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>virtualenv --help
+Usage: virtualenv [OPTIONS] DEST_DIR
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -v, --verbose         Increase verbosity.
+  -q, --quiet           Decrease verbosity.
+  -p PYTHON_EXE, --python=PYTHON_EXE
+                        The Python interpreter to use, e.g.,
+                        --python=python2.5 will use the python2.5 interpreter
+                        to create the new environment.  The default is the
+                        interpreter that virtualenv was installed with
+                        (c:\program files\canopy\user\scripts\python.exe)
+  --clear               Clear out the non-root install and start from scratch.
+  --no-site-packages    DEPRECATED. Retained only for backward compatibility.
+                        Not having access to global site-packages is now the
+                        default behavior.
+  --system-site-packages
+                        Give the virtual environment access to the global
+                        site-packages.
+  --always-copy         Always copy files rather than symlinking.
+  --unzip-setuptools    Unzip Setuptools when installing it.
+  --relocatable         Make an EXISTING virtualenv environment relocatable.
+                        This fixes up scripts and makes all .pth files
+                        relative.
+  --no-setuptools       Do not install setuptools in the new virtualenv.
+  --no-pip              Do not install pip in the new virtualenv.
+  --no-wheel            Do not install wheel in the new virtualenv.
+  --extra-search-dir=DIR
+                        Directory to look for setuptools/pip distributions in.
+                        This option can be used multiple times.
+  --download            Download preinstalled packages from PyPI.
+  --no-download, --never-download
+                        Do not download preinstalled packages from PyPI.
+  --prompt=PROMPT       Provides an alternative prompt prefix for this
+                        environment.
+  --setuptools          DEPRECATED. Retained only for backward compatibility.
+                        This option has no effect.
+  --distribute          DEPRECATED. Retained only for backward compatibility.
+                        This option has no effect.
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>virtualenv --version
+15.1.0
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 960B-8CB0
+
+ Directorio de C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja
+
+10/13/2017  08:16 PM    <DIR>          .
+10/13/2017  08:16 PM    <DIR>          ..
+01/19/2015  09:46 PM    <DIR>          Include
+10/13/2017  08:16 PM    <DIR>          Lib
+10/13/2017  08:16 PM    <DIR>          Scripts
+10/13/2017  08:16 PM    <DIR>          tcl
+               0 archivos              0 bytes
+               6 dirs   6,320,226,304 bytes libres
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>cd
+C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\my_project_folder\cinta-roja>cd /
+
+(Canopy 64bit) C:\>cd -
+El sistema no puede encontrar la ruta especificada.
+
+(Canopy 64bit) C:\>
+(Canopy 64bit) C:\>cd \Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 960B-8CB0
+
+ Directorio de C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja
+
+10/13/2017  07:17 PM    <DIR>          .
+10/13/2017  07:17 PM    <DIR>          ..
+10/11/2017  07:26 PM    <DIR>          BandaRoja
+10/03/2017  08:31 PM         1,595,408 get-pip.py
+10/13/2017  08:16 PM    <DIR>          my_project_folder
+               1 archivos      1,595,408 bytes
+               4 dirs   6,319,886,336 bytes libres
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 960B-8CB0
+
+ Directorio de C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja
+
+10/13/2017  08:43 PM    <DIR>          .
+10/13/2017  08:43 PM    <DIR>          ..
+10/11/2017  07:26 PM    <DIR>          BandaRoja
+10/03/2017  08:31 PM         1,595,408 get-pip.py
+10/13/2017  08:43 PM    <DIR>          intro-flask
+10/13/2017  08:16 PM    <DIR>          my_project_folder
+               1 archivos      1,595,408 bytes
+               5 dirs   6,324,297,728 bytes libres
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja>cd intro-flask
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>echo some-text > app.py
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 960B-8CB0
+
+ Directorio de C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask
+
+10/13/2017  08:51 PM    <DIR>          .
+10/13/2017  08:51 PM    <DIR>          ..
+10/13/2017  08:51 PM                12 app.py
+               1 archivos             12 bytes
+               2 dirs   6,324,297,728 bytes libres
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>cat app.py
+"cat" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>echo app.py
+app.py
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 960B-8CB0
+
+ Directorio de C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask
+
+10/13/2017  09:08 PM    <DIR>          .
+10/13/2017  09:08 PM    <DIR>          ..
+10/13/2017  09:08 PM               116 app.py
+               1 archivos            116 bytes
+               2 dirs   6,317,015,040 bytes libres
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:17:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:17:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:17:13] "GET /favicon.ico HTTP/1.1" 404 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:21:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:21:22] "GET /google HTTP/1.1" 404 -
+Traceback (most recent call last):
+  File "app.py", line 14, in <module>
+    @app.route('/google')
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1080, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 64, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1051, in add_url_rule
+    'existing endpoint function: %s' % endpoint)
+AssertionError: View function mapping is overwriting an existing endpoint function: home
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>C
+"C" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:21:48] "GET /google HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:21:50] "GET /google HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:22:32] "GET /google HTTP/1.1" 404 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:22:59] "GET /google HTTP/1.1" 200 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+Traceback (most recent call last):
+  File "app.py", line 16, in <module>
+    @app.route('/opera')
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1080, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 64, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1051, in add_url_rule
+    'existing endpoint function: %s' % endpoint)
+AssertionError: View function mapping is overwriting an existing endpoint function: google
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+Traceback (most recent call last):
+  File "app.py", line 16, in <module>
+    @app.route('/opera')
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1080, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 64, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "C:\Program Files\Canopy\User\lib\site-packages\flask\app.py", line 1051, in add_url_rule
+    'existing endpoint function: %s' % endpoint)
+AssertionError: View function mapping is overwriting an existing endpoint function: google
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:24:42] "GET /google HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:24:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:24:55] "GET /opera HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:24:59] "GET /safari HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:25:04] "GET /firefox HTTP/1.1" 200 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:47:12] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:47:34] "GET /index.html HTTP/1.1" 404 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:48:17] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:48:19] "GET /index.html HTTP/1.1" 404 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:49:30] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:49:32] "GET /index.html HTTP/1.1" 404 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>python app.py
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [13/Oct/2017 21:50:08] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:50:13] "GET /home HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:50:22] "GET /home HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:50:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [13/Oct/2017 21:50:35] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [13/Oct/2017 21:50:41] "GET /index HTTP/1.1" 200 -
+
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>
+(Canopy 64bit) C:\Users\JoséHomero\Desktop\Dev.f\Batch1_BandaRoja\intro-flask>

@@ -21,15 +21,19 @@
 #
 # accesar_elementos()
 #
-# def cambiar_agregarelementnos():
-#     my_dict6 = {'name': 'hugo', 'age': 26}
-#     print "First time", (my_dict6)
-#     my_dict6['age'] = 32
-#     print (my_dict6)
-#     my_dict6['address']='zapopan'
-#     print my_dict6
-#
-# cambiar_agregarelementnos()
+def cambiar_agregarelementnos():
+    my_dict6 = {'name': 'hugo', 'age': 26}
+    print "First time", (my_dict6)
+    my_dict6['age'] = 32
+    print (my_dict6)
+    my_dict6['address']='zapopan'
+    print my_dict6
+
+    my_dict6['nombre'] = my_dict6['name']
+    del my_dict6['name']
+    print(my_dict6)
+
+cambiar_agregarelementnos()
 
 # def eliminar_elementos():
 #     squares = {1:1, 2:4, 3:9, 4:16, 5:25}
@@ -49,21 +53,21 @@
 # eliminar_elementos()
 
 
-def ejercicio():
-    squares2 = {x: x*x for x in range(6)}
-    print (squares2)
-
-    # equivalentes
-    squares3 = {}
-    for y in range(6):
-        squares3[y] = y*y
-    print (squares3)
-
-ejercicio()
-
-
-lista = [1,2,3,4]
-sett = {1,2,3}
-tup  = (1,2,3)
-dic = {1:'value', 2:'value2', 3:'value3'}
+# def ejercicio():
+#     squares2 = {x: x*x for x in range(6)}
+#     print (squares2)
+#
+#     # equivalentes
+#     squares3 = {}
+#     for y in range(6):
+#         squares3[y] = y*y
+#     print (squares3)
+#
+# ejercicio()
+#
+#
+# lista = [1,2,3,4]
+# sett = {1,2,3}
+# tup  = (1,2,3)
+# dic = {1:'value', 2:'value2', 3:'value3'}
 
